@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "042321fd5f060297bf335115e4aad583"
+build_time: [1532769718, 659710000]
+inputs:
+  "/Users/phoenixtrejo/Desktop/Swift/vision-app-dev/vision-app-dev/Controller/CameraVC.swift": [1530948212, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/vision-app-dev/vision-app-dev/AppDelegate.swift": [1532769663, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/vision-app-dev/vision-app-dev/View/RoundedShadowView.swift": [1530945479, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/vision-app-dev/vision-app-dev/View/RoundedShadowButton.swift": [1530945478, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/vision-app-dev/vision-app-dev/View/RoundedShadowImageView.swift": [1530945477, 0]
+  "/Users/phoenixtrejo/Desktop/Swift/vision-app-dev/Build/Intermediates/vision-app-dev.build/Debug-iphonesimulator/vision-app-dev.build/DerivedSources/CoreMLGenerated/SqueezeNet/SqueezeNet.swift": [1530946835, 0]
